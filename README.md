@@ -1,7 +1,7 @@
 # Calculator
 
+calculator using C++
 
 
 
-
-visit website #Click here :(https://github.com/goswamiakash/Calculator)
+#visit website [click here]( https://goswamiakash.github.io/Calculator/)
